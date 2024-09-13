@@ -1,4 +1,7 @@
-# IPL-AUCTION
+# IPL_Auction_strategy_using_past_data
+Developing auction strategy for new IPL franchise by analyzing past IPL data to create a strong and balanced squad
+
+# Description
 
 
 This repository showcases my project on developing an auction strategy for a new IPL franchise, utilizing SQL and Excel as primary tools for data analysis.
